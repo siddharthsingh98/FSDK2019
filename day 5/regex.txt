@@ -1,0 +1,5 @@
+r for any regular expression 
+\ for any special character
+normal alphabets van be written as runnig hand
+what we have to match should be in single ''
+	

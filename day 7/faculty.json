@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 14 16:23:53 2019
+
+@author: Siddharth Singh
+"""
+
+import json
+
+{
+    "name": "puneet",
+    "last name": "mathur",
+    "photo" : "cebrebk.img",
+    "department": "cse",
+    "research area": [{"python":"specialised"},{"ml":"phd"}
+            ],
+    "contach details": {"name":"pm",
+                         "addres":"piet",
+                         "contact_no":1234567890
+        }
+
+},
+{
+ "name": "hero",
+    "last name": "heralal",
+    "photo" : cebrebk.img,
+    "department": "physcho",
+    "research area": [{"python":"specialised"},{"ml":"phd"}
+            ],
+    "contach details": {"name":"pm",
+                         "addres":"piet",
+                         "contact_no":1234567890
+        }
+
+ }
